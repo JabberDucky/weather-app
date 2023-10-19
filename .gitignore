@@ -12,3 +12,6 @@ build/
 
 # Ignore .env files
 *.env
+
+# Ignore config.js
+config.js
