@@ -41,6 +41,16 @@ async function checkWeather(city){
     }
 }
 
-searchBtn.addEventListener("click", ()=>{
-    checkWeather(searchBox.value);
-})
+function searchWeather() {
+    const city = searchBox.value;
+    checkWeather(city);
+}
+
+searchBtn.addEventListener("click", searchWeather);
+
+// Listen for the Enter key press event on the searchBox input field
+searchBox.addEventListener("keypress", (event) => {
+    if (event.key === "Enter") {
+        searchWeather();
+    }
+});

@@ -12,11 +12,14 @@ body{
     max-width: 410px;
     background: linear-gradient(135deg, #264653 ,#2a9d8f, #f4a261, #e76f51);
     color: #fff;
-    margin: 100px auto 0;
+    margin: 70px auto 0;
     border-radius: 20px;
-    padding: 40px 35px;
+    padding: 20px 35px 20px;
     text-align: center;
 
+}
+.headpic {
+    margin-bottom: 7px;
 }
 .serach{
     width: 100%;
@@ -35,6 +38,7 @@ body{
     flex: 1;
     margin-right: 7px;
     font-size: 18px;
+    margin-bottom: 17px;
 }
 .search button{
     border: 0;
