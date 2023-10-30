@@ -1,3 +1,5 @@
+![Alt text](images/largeheader.png){:style="display:block; margin-left:auto; margin-right:auto"}
+
 # Weather Forecasts by Jabberducky
 
 The Weather App is a simple web application that allows users to check the current weather conditions for a specific location. It provides real-time weather data, including temperature, humidity, wind speed, and a brief description of the weather.
