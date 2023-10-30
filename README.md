@@ -1,4 +1,4 @@
-![Alt text](images/largeheader.png){:style="display:block; margin-left:auto; margin-right:auto"}
+![Alt text](images/largeheader.png)
 
 # Weather Forecasts by Jabberducky
 
